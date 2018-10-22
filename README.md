@@ -1,1 +1,1 @@
-And now, to bring order from the chaos, this repo! 
+Slide decks are here
