@@ -1,6 +1,7 @@
 70-533 Implementing Azure Solutions Exam Preparation
 Key Information
 Q: Do I need to do all the labs?
+
 A: No, however, as you do more labs, you strongly increase your likelihood of passing the exam! Target minimum of 2-3 per session, maybe a couple more for the big target areas (20-25% topics)
 
 Some Lab links you may have to click on “How To” in the left Navigation pane to get to the step-by-step
@@ -9,36 +10,66 @@ Step-By-Step Labs:
 #1 Azure Resource Manager (ARM) networking (5–10%)
 vnet-to-vnet lab https://github.com/michaelsrichter/70534ExamPrep/tree/master/Labs/vnet-to-vnet point-to-site lab https://github.com/michaelsrichter/70534ExamPrep/tree/master/Labs/point-to-site
 
-Create a virtual network using PowerShell https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-vnet-arm-ps Create a virtual network using the Azure CLI https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-vnet-arm-cli
+Create a virtual network using PowerShell https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-vnet-arm-ps
+
+Create a virtual network using the Azure CLI https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-vnet-arm-cli
+
 Create network security groups using the Azure portal https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-nsg-arm-pportal
+
 Create network security groups using PowerShell https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-nsg-arm-ps
 #2 Secure resources (20–25%)
+
 Lab Azure AD https://github.com/guruskill/70-534/blob/master/Labs/AzureADLab.md
+
 Lab Creating an Azure AD B2C and Connect an Application https://github.com/guruskill/70-534/blob/master/Labs/AzureADB2CLab.md
+
 #3 application storage and data access strategy (5–10%)
+
 Azure Storage Samples https://azure.microsoft.com/en-us/resources/samples/?service=storage
+
 Table Labs for .NET https://github.com/Azure-Samples/storage-table-dotnet-getting-started
+
 Blob Labs for .NET
+
 https://azure.microsoft.com/en-us/resources/samples/storage-blob-dotnet-getting-started/
+
 https://github.com/Azure-Samples/storage-blob-dotnet-getting-started
+
 SAS Labs https://azure.microsoft.com/en-us/resources/samples/storage-dotnet-sas-getting-started/
+
 Azure Storage Scalability and Performance Targets (READ/UNDERSTAND)
 https://docs.microsoft.com/en-us/azure/storage/storage-scalability-targets
+
 SQL Database Videos https://azure.microsoft.com/en-us/resources/videos/index/?services=sql-database
+
 #4 advanced applications (20–25%)
+
 Design Advanced Applications https://github.com/guruskill/70-534/blob/master/Labs/AdvancedAppsLab.md
+
 #5 Azure Web and Mobile Apps (5–10%)
+
 Creating and Managing a Web App & Services https://github.com/guruskill/70-534/blob/master/Labs/WebAppsLab.md
+
 Creating and Managing a Mobile App https://github.com/guruskill/70-534/blob/master/Labs/MobileAppsLab.md
+
 Azure AD
+
 Creating and Managing a Mobile App https://github.com/guruskill/70-534/blob/master/Labs/MobileAppsLab.md
+
 Net Calling a web API in a web app using Azure AD and OpenID Connect https://azure.microsoft.com/en-us/resources/samples/active-directory-dotnet-webapp-webapi-openidconnect/
+
 .NET Integrating a web app with Azure AD using WS-Federation https://azure.microsoft.com/en-us/resources/samples/active-directory-dotnet-webapp-wsfederation/
+
 Java Integrating Azure AD into a Java web application https://azure.microsoft.com/en-us/resources/samples/active-directory-java-webapp-openidconnect/
+
 Java Calling the Azure AD Graph API in a web application https://azure.microsoft.com/en-us/resources/samples/active-directory-java-graphapi-web/
+
 Node.js Integrating Azure AD into a NodeJS web application https://azure.microsoft.com/en-us/resources/samples/active-directory-node-webapp-openidconnect/
+
 Node.js Securing a web API with Azure AD https://azure.microsoft.com/en-us/resources/samples/active-directory-node-webapi/
+
 Lab Creating an Azure AD B2C and Connect an Application
+
 This lab provides the links to create an Azure AD B2C directory, a sample application and connect that application to the directory for authentication. There are several choices for the application so you can choose the one that makes the most sense to you.
 
 Create an Azure AD B2C directory Below is a link to tutorial on how to create an Azure AD B2C directory from the azure documentation site:
@@ -100,15 +131,28 @@ Microsoft Azure Backup Server v2 Docs: https://azure.microsoft.com/en-us/blog/an
 AzureRM.RecoveryServices.Backup (PowerShell) https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-automation
 
 #7 Azure Compute infrastructure (10–15%)
+
 **Create Infrastructure - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/
+
 Deploy Templates – Portal https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy-portal
+
 Resize a Windows VM https://docs.microsoft.com/en-us/azure/virtual-machines/windows/resize-vm
+
 Creating and Updating Resources in one ARM Template based deployment: https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-update
+
 Share state between linked templates: https://docs.microsoft.com/en-us/azure/azure-resource-manager/best-practices-resource-manager-state
+
 Patterns for deploying resources: https://docs.microsoft.com/en-us/azure/azure-resource-manager/best-practices-resource-manager-design-templates
+
 Deploy resources with Resource Manager templates and Azure PowerShell https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy
+
 Containers
+
 **Create your first container https://blogs.technet.microsoft.com/canitpro/2017/08/02/step-by-step-first-steps-with-azure-container-services/
+
 ** More ways to create containers https://docs.microsoft.com/en-us/azure/container-instances/
-More Labs and Resources
-More Labs https://certprep.azurewebsites.net/ Docs and Labs http://docs.microsoft.com
+
+More Labs 
+https://www.microsoft.com/handsonlabs
+
+Docs and Labs http://docs.microsoft.com
