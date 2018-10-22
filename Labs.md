@@ -1,5 +1,6 @@
-70-533 Implementing Azure Solutions Exam Preparation
+<h1>70-533 Implementing Azure Solutions Exam Preparation</h1>
 Key Information
+
 Q: Do I need to do all the labs?
 
 A: No, however, as you do more labs, you strongly increase your likelihood of passing the exam! Target minimum of 2-3 per session, maybe a couple more for the big target areas (20-25% topics)
